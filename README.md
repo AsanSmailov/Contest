@@ -51,3 +51,20 @@
 | [7. Какое следующее слово](./contest_03/07/7.cpp) | ![](./img/cpp.png) |
 | [8. Уникальное число](./contest_03/08/8.go) | ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/9.go) | ![](./img/go.png) |
+
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_04/01/1.go) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./contest_04/02/2.cpp) |  ![](./img/cpp.png) |
+| [3. Титаник](./contest_04/03/3.cpp) | ![](./img/cpp.png) |
+| [4. Титаник](./contest_04/04/4.go) | ![](./img/go.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_05/01/1.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_05/02/2.cpp) |  ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_05/03/3.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_05/04/4.cpp) | ![](./img/cpp.png) |
+| [5. Класс. Большое целое число](./contest_05/05/5.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./contest_05/06/6.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/07/7.go) | ![](./img/go.png) |
