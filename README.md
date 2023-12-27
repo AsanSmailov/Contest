@@ -68,3 +68,21 @@
 | [5. Класс. Большое целое число](./contest_05/05/5.cpp) | ![](./img/cpp.png) |
 | [6. Get a cat](./contest_05/06/6.go) | ![](./img/go.png) |
 | [7. Класс. Чайник](./contest_05/07/7.go) | ![](./img/go.png) |
+
+|[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| --- | :-: |
+| [1. Класс. Shape](./contest_06/01/1.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Менеджер](./contest_06/02/2.cpp) |  ![](./img/cpp.png) |
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_07/01/1.cpp) | ![](./img/cpp.png) |
+
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1. Никаких секретов](./contest_08/01/1.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_08/02/2.cpp) |  ![](./img/cpp.png) |
+| [3. 1D массив + функции](./contest_08/03/3.cpp) | ![](./img/cpp.png) |
+| [4. 2D массив + функции](./contest_08/04/4.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_08/05/5.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/06/6.cpp) | ![](./img/cpp.png) |
