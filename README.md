@@ -86,3 +86,11 @@
 | [4. 2D массив + функции](./contest_08/04/4.cpp) | ![](./img/cpp.png) |
 | [5. IntSharedPointer](./contest_08/05/5.cpp) | ![](./img/cpp.png) |
 | [6. Класс Any](./contest_08/06/6.cpp) | ![](./img/cpp.png) |
+| [7. Адаптер функций](./contest_08/07/7.cpp) |  ![](./img/cpp.png) |
+| [8. Стратегия печати](./contest_08/08/8.cpp) | ![](./img/cpp.png) |
+| [9. Композит](./contest_08/09/9.cpp) |  ![](./img/cpp.png) |
+| [10. Какой тип](./contest_08/10/10.go) | ![](./img/go.png) |
+| [11. Класс. Матрица](./contest_08/11/11.go) | ![](./img/go.png) |
+| [12. Класс. Стек](./contest_08/12/12.go) | ![](./img/go.png) |
+| [13. Pizza Builder](./contest_08/13/13.go) |  ![](./img/go.png) |
+| [15. Бинарное дерево поиска](./contest_08/15/15.go) |  ![](./img/go.png) |
